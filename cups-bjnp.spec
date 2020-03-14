@@ -5,8 +5,8 @@
 Name     : cups-bjnp
 Version  : 2.0.3
 Release  : 1
-URL      : http://downloads.sourceforge.net/sourceforge/cups-bjnp/cups-bjnp-2.0.3.tar.gz
-Source0  : http://downloads.sourceforge.net/sourceforge/cups-bjnp/cups-bjnp-2.0.3.tar.gz
+URL      : https://sourceforge.net/projects/cups-bjnp/files/cups-bjnp/2.0.3/cups-bjnp-2.0.3.tar.gz
+Source0  : https://sourceforge.net/projects/cups-bjnp/files/cups-bjnp/2.0.3/cups-bjnp-2.0.3.tar.gz
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : GPL-2.0
